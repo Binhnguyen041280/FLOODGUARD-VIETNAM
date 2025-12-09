@@ -1,0 +1,8 @@
+{
+  "name": "FloodGuard Vietnam",
+  "description": "A real-time, crowdsourced flood monitoring dashboard for Central Vietnam powered by Gemini Vision AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
